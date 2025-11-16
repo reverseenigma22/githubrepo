@@ -8,5 +8,7 @@ with Jenkins and make the things automation.
 Use Control + Shift + m to toggle the tab key moving focus. Alternatively, 
 use esc then tab to move to the next interactive element on the page.
 
+To check the timezone, the command depends on your operating system:
+
 
 
